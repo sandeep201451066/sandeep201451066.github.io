@@ -1,0 +1,43 @@
+- title: Server
+  items:
+    - name: Django
+      level: 1
+    - name: Php
+      level: 2
+
+- title: Web
+  items:
+    - name: CSS
+      level: 1
+    - name: JavaScript
+      level: 2
+    - name: Bootstrap
+      level: 1
+    
+
+- title: Languages
+  items:
+    - name: C
+      level: 1
+    - name: Java
+      level: 2
+    - name: NodeJS
+      level: 2
+    - name: Python
+      level: 1
+    - name: Android
+      level: 2
+
+- title: Services
+  items:
+    - name: GitHub
+      level: 3
+
+- title: Misc
+  items:
+    - name: Database
+      level: 2
+    - name: Designing
+      level: 0
+    - name: Scripting
+      level: 2

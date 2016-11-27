@@ -1,0 +1,8 @@
+- title: Cerious
+  desc: This is current working project on Software Engineering Course. Cerious is a Natural language to C Code Converter(Desktop Applicatopn)that is intended to work as an assistant tool for user .This is based on Natural Language Processing and Python libraries.
+
+- title: Hotel Management System
+  desc: The objective of this project is to implemented a small version of Hptel Management System.This is a Database project on PostgreSQL.In this project we made a database for Hotel Management to maintain the record of customers,rooms and other services.
+
+- title: Secure Chat Application using OpenSSL
+  desc: This project was aimed to studying the security issues while sending data through a channel and to work on the counter measures to prevent it.We made a web chat application using OpenSSL(Open Secure Socket Layer) and implemented Deffie Helman Encryption algorithm to make it more secure.
