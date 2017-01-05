@@ -8,21 +8,21 @@
 - title: Web
   items:
     - name: CSS
-      level: 1
+      level: 2
     - name: JavaScript
       level: 2
     - name: Bootstrap
-      level: 1
+      level: 2
     
 
 - title: Languages
   items:
     - name: C
-      level: 1
+      level: 2
     - name: Java
       level: 2
     - name: NodeJS
-      level: 2
+      level: 1
     - name: Python
       level: 1
     - name: Android
