@@ -22,7 +22,7 @@
     - name: Java
       level: 2
     - name: NodeJS
-      level: 1
+      level: 0
     - name: Python
       level: 1
     - name: Android
@@ -31,7 +31,7 @@
 - title: Services
   items:
     - name: GitHub
-      level: 3
+      level: 2
 
 - title: Misc
   items:
