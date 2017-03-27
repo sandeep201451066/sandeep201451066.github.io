@@ -21,8 +21,6 @@
       level: 2
     - name: Java
       level: 2
-    - name: NodeJS
-      level: 0
     - name: Python
       level: 1
     - name: Android
@@ -37,7 +35,9 @@
   items:
     - name: Database
       level: 2
-    - name: Designing
-      level: 0
+    - name: Data Structure
+      level: 2
+      - name: Algorithms
+      level: 2
     - name: Scripting
       level: 2
