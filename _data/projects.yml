@@ -1,8 +1,33 @@
-- title: PQusic
-  desc: This is current working project on Software Engineering Course. Cerious is a Natural language to C Code Converter(Desktop Applicatopn)that is intended to work as an assistant tool for user .This is based on Natural Language Processing and Python libraries.
-
-- title: Hotel Management System
-  desc: The objective of this project is to implemented a small version of Hptel Management System.This is a Database project on PostgreSQL.In this project we made a database for Hotel Management to maintain the record of customers,rooms and other services.
-
+- title: PQusic (A Music web app)
+  desc: The primary objective of the application is to work as an online music player. 
+  The application will provide an interface where each user can listen to and create playlists of songs. 
+  By making the playlist public any person following the user can share the playlists.
+  We are using YouTube search , which has the largest database of variety of songs which also provides the covers , unplugged versions that aren’t found in other music player websites. 
+  PQusic aims to stream only music from the video songs.The users who watch a normal YouTube video end up using large amounts of data. But streaming only the audio reduces this data consumption to a large extent. Thus people using mobile data to listen to music will be beneﬁted by this.
+ 
+ - title: Hotel Management System
+  desc: The objectives of the project is to implement a small version of Hotel management database system. This system manages number of customer entering and exiting in the hotel. This project's database was implemented in PostgreSQL , MySQL.
+  
 - title: College Website
-  desc: This project was aimed to studying the security issues while sending data through a channel and to work on the counter measures to prevent it.We made a web chat application using OpenSSL(Open Secure Socket Layer) and implemented Deffie Helman Encryption algorithm to make it more secure.
+  desc: The objective of this project to develop an attractive and dynamic Institute website with database. Institute website has been developed using HTML , CSS , PHP as the Front End and SQL server , JavaScript as the Back End.
+  
+- title: Image Compression-using-SVD
+  desc: Image compression techniques reduce the storage space occupied by the image without any loss to image quality. Thus the image size can be reduced by selecting proper compression technique depending on the requirement of user or application.
+  Initially the image which has to be compressed is given as an input. This input image is stored as an array of integers. Required ‘r’ value should be specified. Compression is then achieved by performing Singular value decomposition (SVD) on RGB components of the input image. The resultant decomposed matrix is regenerated after approximating S matrix.
+
+- title: Group Blog Android App
+  desc: This is Group Blog Android App.The objective of this app is to share ideas , social events , technical blogs. In this app user can register and login. After that user can view all the posted blogs and he can read. If he want to like it ,He can like it. give some comment on it. User can write own blogs and post it. I used Firebase database. I created database on firebase server for our application.
+  
+- title: Puzzle Game Android App
+  desc: This is a puzzle solving Android Game. In this game first of all user take a photo and save it. This app will make 8 piece of your photo and shuffle randomly and set on page randomly. after that swap pieces left , right, up , down make original photo.I used some data structure and Algorithms Priority Queue and A* algorithm.
+  
+- title: Route4me
+  desc: Route4me is an Android App for finding shortest path of given node.
+  Select source and destination node it will give you best shortest path to reach destination. I used Dijkstra's algorithm for finding shortest path.
+
+- title: Scarne's Dice
+  desc: This is an Android App Game. There are two player, one - user and second- computer. There are two button roll and hold. First user has two choice roll the dice or hold, after the holding user's current score added into past score. After that computer's turn, computer has two choice roll or hold dice and so on. who finish the level of 100 points that will be a winner.
+  
+- title: Anagram
+  desc: Anagram is a Anagram String Game. In this App given a string of length n. Take all character of this string and add one extra character to make a meaningful meaning that should be exist in dictionary.
+  
