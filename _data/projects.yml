@@ -29,5 +29,5 @@
   desc: This is an Android App Game. There are two player, one - user and second- computer. There are two button roll and hold. First user has two choice roll the dice or hold, after the holding user's current score added into past score. After that computer's turn, computer has two choice roll or hold dice and so on. who finish the level of 100 points that will be a winner.
   
 - title: Anagram
-  desc: Anagram is a Anagram String Game. In this App given a string of length n. Take all character of this string and add one extra character to make a meaningful meaning that should be exist in dictionary.
+  desc: Anagram is a Anagram String Game.In this App given a string of length n. Take all character of this string and add one extra character to make a meaningful meaning that should be exist in dictionary.
   
